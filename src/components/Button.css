@@ -1,0 +1,40 @@
+.button {
+    padding: 10px 20px;
+    font-size: 18px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.35);
+  }
+  
+  .button-numbers {
+    background-color: #4599ee; 
+    color: white;
+  }
+
+  .button-numbers:hover {
+    background-color: #40499d; 
+  }
+
+  .button-numbers-signs{
+    background-color: #78b973;
+    color: white;
+  }
+  
+  .button-numbers-signs:hover {
+    background-color: #46873d; 
+  }
+  
+  .button-clear {
+    background-color: #db2d2d; 
+    color: white;
+    font-weight: 600;
+    width: 250px;
+  }
+  
+  .button-clear:hover {
+    background-color: #ca1919;
+  }
+  
